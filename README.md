@@ -1,12 +1,12 @@
 <br>
 <br>
-Welcome to my GitHub! I'm Sachin Kotian, a Bsc in Information technology who's transitioning into Software Engineering. Through self-study.
-I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/imsachinKotian">imsachinKotian</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
+Welcome to my GitHub! I'm Sachin Kotian, a Bsc in Information technology who's transitioning into Software Engineering.
+I am building a solid foundation in backend technologies  and languages. You can find me on tech twitter <a href = "https://twitter.com/imsachinKotian">imsachinKotian</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
 
 ### ✔️ I'm currently learning
-- Flutter
-- ReactJS
+- Socket.io
+- grpc
 - NestJS
 
 ### 👩‍💻 I'm working on
